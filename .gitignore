@@ -3,3 +3,7 @@
 
 # intermediate markdown files
 *.md
+
+# other generated files
+.Rproj.user
+*.html
